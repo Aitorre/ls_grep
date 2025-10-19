@@ -27,4 +27,4 @@ while ((linea = salidaFinal.readLine()) != null) {
 }
 ```
 
-Enlace de GitHub: <https://github.com/Aitorre/grep_ls.git>
+Enlace de GitHub: <https://github.com/Aitorre/ls_grep.git>
